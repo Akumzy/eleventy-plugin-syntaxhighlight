@@ -1,0 +1,23 @@
+{
+  "name": "@akumzy/eleventy-plugin-syntaxhighlight",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akumzy/eleventy-plugin-syntaxhighlight.git"
+  },
+  "author": "Akuma Isaac Akuma <akumaisaacakuma@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akumzy/eleventy-plugin-syntaxhighlight/issues"
+  },
+  "homepage": "https://github.com/Akumzy/eleventy-plugin-syntaxhighlight#readme",
+  "dependencies": {
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6",
+    "prismjs": "^1.23.0"
+  }
+}
